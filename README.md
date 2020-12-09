@@ -15,6 +15,6 @@ In addition a LCD module will  be used as output and display the calculated dist
 
 ## Arduino Prototype
 
-<img src="C:\Users\edwar\Desktop\arduinoSensor.jpg" width="800 height="600">
+<img src="Repository Images/C:\Users\edwar\Desktop\arduinoSensor.jpg" width="800 height="600">                     
 
 
